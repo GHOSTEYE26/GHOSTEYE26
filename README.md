@@ -36,7 +36,7 @@ Continuously learning and improving.<br>
 ## Tech Stack
 
 <table>
-<tr>
+<tr align="center">
 
 <td width="50%" valign="top">
 
