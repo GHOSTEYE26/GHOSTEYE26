@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVlcnhjanc0bnBueXZscmRxdm8zMDlyZTIwcTk4Z2E4ODBkMDQxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iFiPHGTAGJQXHOaXcu/giphy.gif" width="100%" />
+<img src="https://tenor.com/d07ugoxSsLX.gif" width="100%" />
 </td>
 
 <td width="50%" valign="top">
