@@ -14,15 +14,16 @@ Building scalable and modern web applications.<br>
 Focused on clean architecture and performance.<br>
 Working with the JavaScript ecosystem and backend systems.<br>
 Continuously learning and improving.
-(1) Architecting scalable digital infrastructure.
 
-(2) Engineering resilient backend systems.
-
-(3) Designing modern, high-performance web applications.
-
-(4) Committed to clean architecture and production excellence.
-
-(5) Building systems that last.
+--> Architecting scalable digital infrastructure.
+..............................................................
+--> Engineering resilient backend systems.
+..............................................................
+--> Designing modern, high-performance web applications.
+..............................................................
+--> Committed to clean architecture and production excellence.
+..............................................................
+--> Building systems that last.
 </p>
 
 </td>
