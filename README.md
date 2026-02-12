@@ -40,14 +40,14 @@ Continuously learning and improving.<br>
 
 <td width="50%" valign="top">
 
-<h3>Frontend</h3>
+<h3> ----> FRONTEND <---- </h3>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
 <br><br>
 
-<h3>Backend</h3>
+<h3> ----> BACKEND <---- </h3>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -56,14 +56,14 @@ Continuously learning and improving.<br>
 
 <td width="50%" valign="top">
 
-<h3>Database</h3>
+<h3> ----> DATABASE <---- </h3>
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
 <br><br>
 
-<h3>Tools</h3>
+<h3> ----> Tools <---- </h3>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
