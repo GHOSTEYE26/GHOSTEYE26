@@ -5,7 +5,9 @@
     </td>
     <td width="50%" align="left">
 
-# Hi 👋, I'm GHOSTEYE26
+# GHOSTEYE26
+### Full Stack Developer
+Building scalable web applications with JavaScript & Node.js
 
 ### Full Stack Developer  
 Clean Code Enthusiast  
