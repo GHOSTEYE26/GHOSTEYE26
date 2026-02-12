@@ -37,6 +37,11 @@ Continuously learning and improving.<br>
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
 <h3> ----> FRONTEND <---- </h3>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60" />
 <br><br>
@@ -49,7 +54,9 @@ Continuously learning and improving.<br>
 <br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<br><br>
+</td>
+
+<td width="50%" align="center" valign="top">
 
 <h3> ----> DATABASE <---- </h3>
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" />
@@ -62,6 +69,11 @@ Continuously learning and improving.<br>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
