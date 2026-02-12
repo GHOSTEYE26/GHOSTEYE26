@@ -35,10 +35,7 @@ Continuously learning and improving.<br>
 
 ## Tech Stack
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
+<div align="center">
 
 <h3> ----> FRONTEND <---- </h3>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60" />
@@ -52,9 +49,7 @@ Continuously learning and improving.<br>
 <br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-</td>
-
-<td width="50%" valign="top">
+<br><br>
 
 <h3> ----> DATABASE <---- </h3>
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" />
@@ -68,13 +63,9 @@ Continuously learning and improving.<br>
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
-
 
 ## GitHub Analytics
 
@@ -83,8 +74,7 @@ Continuously learning and improving.<br>
   <img width="48%" src="https://streak-stats.demolab.com?user=GHOSTEYE26&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
+---
 
 ## Featured Project
 
