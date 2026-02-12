@@ -64,13 +64,6 @@ Building Modern Web Applications
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GHOSTEYE26&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
 
 ## 📌 Featured Project
 
