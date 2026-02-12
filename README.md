@@ -38,7 +38,7 @@ Continuously learning and improving.<br>
 <table>
 <tr>
 
-<td width="50%" valign="center">
+<td width="50%" valign="top">
 
 <h3>Frontend</h3>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60" />
@@ -54,7 +54,7 @@ Continuously learning and improving.<br>
 
 </td>
 
-<td width="50%" valign="center">
+<td width="50%" valign="top">
 
 <h3>Database</h3>
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" />
