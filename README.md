@@ -13,17 +13,17 @@
 Building scalable and modern web applications.<br>
 Focused on clean architecture and performance.<br>
 Working with the JavaScript ecosystem and backend systems.<br>
-Continuously learning and improving.
-
---> Architecting scalable digital infrastructure.
-..............................................................
---> Engineering resilient backend systems.
-..............................................................
---> Designing modern, high-performance web applications.
-..............................................................
---> Committed to clean architecture and production excellence.
-..............................................................
---> Building systems that last.
+Continuously learning and improving.<br>
+<br>
+--> Architecting scalable digital infrastructure.<br>
+..............................................................<br>
+--> Engineering resilient backend systems.<br>
+..............................................................<br>
+--> Designing modern, high-performance web applications.<br>
+..............................................................<br>
+--> Committed to clean architecture and production excellence.<br>
+..............................................................<br>
+--> Building systems that last.<br>
 </p>
 
 </td>
@@ -90,13 +90,6 @@ Continuously learning and improving.
 
 ---
 
-## Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GHOSTEYE26&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
 
 ## Featured Project
 
