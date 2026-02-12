@@ -3,20 +3,16 @@
     <td width="50%">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR1ZGRiMGlhaWI2bnVqcjVhazg4Zm1vY3lhY2g5ejM2aGVxOW1tMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjC8sdurIYfElHXfxR/giphy.gif" width="100%" alt="coding animation"/>
     </td>
-    <td width="50%" align="left">
+    <td width="50%" valign="top">
 
 # GHOSTEYE26
-### Full Stack Developer
-Building scalable web applications with JavaScript & Node.js
-
 ### Full Stack Developer  
-Clean Code Enthusiast  
-Building Modern Web Applications  
+Building scalable and modern web applications.
 
-- 🔭 Currently building scalable web apps  
-- 🌱 Improving backend & system design skills  
-- 🚀 Focused on clean, maintainable code  
-- 💡 Passionate about modern technologies  
+- Currently developing production-ready web systems  
+- Focused on clean architecture & performance  
+- Working with JavaScript ecosystem & backend systems  
+- Always improving and learning  
 
     </td>
   </tr>
@@ -24,31 +20,59 @@ Building Modern Web Applications
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 💻 Frontend
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Frontend
+<p>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60" />
+</p>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚙️ Backend
+<br>
+
+### Backend
+<p>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60" />
+</p>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+    </td>
+
+    <td width="50%" valign="top">
+
+### Database
+<p>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" />
+</p>
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 🧰 Tools
+<br>
+
+### Tools
+<p>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60" />
+</p>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GHOSTEYE26&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -64,10 +88,17 @@ Building Modern Web Applications
 
 ---
 
+## Achievements
 
-## 📌 Featured Project
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GHOSTEYE26&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
-### 🚀 Smart Attendance System
-Modern attendance system built with **Node.js**, **Express**, and **MongoDB**
+---
 
-🔗 Add your project repository link here
+## Featured Project
+
+### Smart Attendance System
+Modern attendance tracking application built with Node.js, Express and MongoDB.
+
+🔗 Add your repository link here
