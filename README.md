@@ -1,18 +1,24 @@
-<h1 align="center">Hi 👋, I'm GHOSTEYE26</h1>
-<h3 align="center">Full Stack Developer | Clean Code Enthusiast | Building Modern Web Apps</h3>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR1ZGRiMGlhaWI2bnVqcjVhazg4Zm1vY3lhY2g5ejM2aGVxOW1tMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjC8sdurIYfElHXfxR/giphy.gif" width="100%" />
+    </td>
+    <td width="50%">
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR1ZGRiMGlhaWI2bnVqcjVhazg4Zm1vY3lhY2g5ejM2aGVxOW1tMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjC8sdurIYfElHXfxR/giphy.gif" width="500" />
-</p>
+# Hi 👋, I'm GHOSTEYE26  
 
----
+### Full Stack Developer  
+Clean Code Enthusiast  
+Building Modern Web Applications  
 
-## 👨‍💻 About Me
+- 🔭 Currently building scalable web apps  
+- 🌱 Working with modern backend systems  
+- 🚀 Focused on clean & maintainable code  
+- 💡 Passionate about technology  
 
-- 🔭 Currently building full stack applications  
-- 🌱 Working with modern web technologies  
-- 💡 Focused on writing clean and scalable code  
-- 🚀 Always learning and improving  
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,4 +75,4 @@
 ### 🚀 Smart Attendance System  
 Modern attendance system built using **Node.js & MongoDB**
 
-🔗 Add your project link here  
+🔗 Add your project link here
