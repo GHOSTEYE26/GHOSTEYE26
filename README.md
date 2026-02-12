@@ -24,6 +24,7 @@ Continuously learning and improving.<br>
 --> Committed to clean architecture and production excellence.<br>
 ..............................................................<br>
 --> Building systems that last.<br>
+..............................................................<br>
 </p>
 
 </td>
